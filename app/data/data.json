@@ -1,0 +1,21 @@
+{
+  "speakers": [{
+    "title" : "Algorithms",
+    "name": "Syddhantt Jain",
+    "shortname" : "Syd",
+    "summary" : "How to approach Algorithms.",
+    "description": "<p>DFS,BFS,DP,Merge Sort,Quick Sort.</p>"
+  },{
+    "title" : "Mathematics",
+    "name": "Swapnil",
+    "shortname" : "Swap",
+    "summary" : "How to approach Math Problems.",
+    "description": "<p>Integration,Differentiation,Algebra.</p>"
+  },{
+    "title" : "Physics",
+    "name": "Ashish Pandey",
+    "shortname" : "Ashish",
+    "summary" : "How to approach Dynamics of Physics.",
+    "description": "Relativity,Conservation of momentum."
+  }]
+}
